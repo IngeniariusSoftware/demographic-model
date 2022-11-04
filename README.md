@@ -1,3 +1,5 @@
+### Description
+
 This is a graphic demonstration of the demographics of different countries according to the [UN data](https://population.un.org/wpp/Download/Standard/Population/). In addition, a comparison of the prediction results of the simplest model for population forecasting and UN forecasts is demonstrated.
 
 - The initial size of the graphs is counted once at the beginning, so when looking for the best display, do not forget to reload the page
@@ -12,4 +14,12 @@ This is a graphic demonstration of the demographics of different countries accor
 
 - Population pyramid bars contain hint data about the number of people. Just point your mouse cursor at some bar
 
-Link to the demonstration: https://ingeniariussoftware.github.io/demographic-model/
+
+### Demonstration
+
+https://ingeniariussoftware.github.io/demographic-model/
+
+
+### Thanks
+
+Special thanks for inspiration and example: https://www.populationpyramid.net
