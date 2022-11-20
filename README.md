@@ -23,3 +23,8 @@ https://ingeniariussoftware.github.io/demographic-model/
 ### Thanks
 
 Special thanks for inspiration and example: https://www.populationpyramid.net
+
+
+### Screenshot
+
+![screenshot](screenshot.png)
